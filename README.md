@@ -18,11 +18,11 @@
 
    - Connects to the MySQL database and ensures the "Students" (students) table is set-up
 
-5. **Menu.cs**:
+5. **Menu.java**:
 
    - Manages the user interface of the application.
    - Provides methods to guide users through adding, removing, updating, displaying, and searching students, as well as viewing class averages and students with highest/lowest grades.
 
-6. **Program.cs**:
+6. **Program.java**:
    - Starting point of the application.
    - Initializes the database connection, CRUD operations, and the user interface.
