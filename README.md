@@ -3,7 +3,8 @@
 #### Description:
 
 `Class Management App` is an app  made with Java created to manage students data. It provides the user the capability to perform CRUD operations
-(Create, Read, Update, Delete), the menu interface is terminal based.
+(Create, Read, Update, Delete), the menu interface is terminal based. As of 21/02/2024 this project is incomplete, will update when it becomes completely functional.
+
 
 1. **Students.java**:
 
